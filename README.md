@@ -22,3 +22,7 @@ You can click the Preview link to take a look at your changes.
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
 Linux | Elastic | Vertica | Cloudera | Pentaho | Tableau | AWS | React | Javascript | Node.js | CSS | Python | PyTorch | Spacy | Dataiku | Anaconda
+
+<h3> 📫 How to reach me: </h3>
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ldsanchez-2006/) &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ldsanchez) &nbsp; [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/ldsanchez)
