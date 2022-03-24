@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
-Linux | Elastic | Vertica | Cloudera | Pentaho | Tableau | AWS | React | Javascript | Node.js | CSS | Python | PyTorch | Spacy
+Linux | Elastic | Vertica | Cloudera | Pentaho | Tableau | AWS | React | Javascript | Node.js | CSS | Python | PyTorch | Spacy | Dataiku | Anaconda
