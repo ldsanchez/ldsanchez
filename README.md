@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
-Linux | Elastic | Vertica | Cloudera | Pentaho | Tableau | AWS | React | Javascript | Node.js | CSS | Python | PyTorch | Spacy | Dataiku | Anaconda
+Linux | Elastic | Vertica | Cloudera | Pentaho | Tableau | AWS | Python | PyTorch | Spacy | Dataiku | Anaconda
 
 <h3> 📫 How to reach me: </h3>
 
