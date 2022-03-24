@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ldsanchez&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ldsanchez&show_icons=true&hide_border=true&hide_title=true" />
 
 - 🎓 &nbsp; Systems Engineer with an MBA
 - 
