@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/ldsanchez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldsanchez&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsanchez&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldsanchez&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsanchez&layout=compact" />
 </a>
