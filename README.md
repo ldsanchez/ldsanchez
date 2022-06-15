@@ -25,4 +25,4 @@ Solidity | Hardhat | React
 
 <h3> 📫 How to reach me: </h3>
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ldsanchez) &nbsp; [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/ldsanchez)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ldsanchez) &nbsp; [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/0xLScorpion)
