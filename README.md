@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🎓 &nbsp; Systems Engineer / MBA
 - 🔖 &nbsp; Cloud Practitioner | Deep Learning Specialization
-- 💼 &nbsp; CTO at Matrix Evolution
 - 👀 &nbsp; Passionate about technology ...
 - 🌱 &nbsp; I’m currently learning Web3 Development
 - 💞️ &nbsp; I’m looking to pivot to Web3 and collaborate on innovative projects
@@ -26,4 +25,4 @@ Solidity | Hardhat | React
 
 <h3> 📫 How to reach me: </h3>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ldsanchez-2006/) &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ldsanchez) &nbsp; [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/ldsanchez)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ldsanchez) &nbsp; [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/ldsanchez)
