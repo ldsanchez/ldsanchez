@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center"> Hey there! you can call me Leo 👋 </h1>
-<h3 align="center"> 🚀 Solutions Architech | Maker | Cloud | AI / ML 🚀 </h3>
+<h3 align="center"> 🚀 Solutions Architech | Maker | Cloud | AI / ML | Web3 🚀 </h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🎓 &nbsp; Systems Engineer / MBA
 - 🔖 &nbsp; Cloud Practitioner | Deep Learning Specialization
+- 🏗 &nbsp; BuidlGuidl Builder
 - 👀 &nbsp; Passionate about technology ...
 - 🌱 &nbsp; I’m currently learning Web3 Development
 - 💞️ &nbsp; I’m looking to pivot to Web3 and collaborate on innovative projects
