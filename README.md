@@ -13,11 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 - 🎓 &nbsp; Systems Engineer / MBA
 - 🔖 &nbsp; Cloud Practitioner | Deep Learning Specialization
-- 🏗 &nbsp; BuidlGuidl Builder
+- 🏗 &nbsp; [BuidlGuidl Builder](https://buidlguidl.com/builders/0x3970b226569a391c5446b9C68445D57f3e9D06e3)
 - 👀 &nbsp; Passionate about technology ...
 - 🌱 &nbsp; I’m currently learning Web3 Development
 - 💞️ &nbsp; I’m looking to pivot to Web3 and collaborate on innovative projects
 - 📫 &nbsp; you can reach me at lsanchez.ve@gmail.com
+
+<h3> 🛠 &nbsp;Hackatons </h3>
+
+[Winner GR14: Web3 Application General Purpose Bounty (Covalent)](https://gitcoin.co/hackathon/gr14/projects/15996/crypto-inspect/summary?)
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
