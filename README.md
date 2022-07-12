@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3> 🛠 &nbsp;Hackatons </h3>
 
-[Winner GR14: Web3 Application General Purpose Bounty (Covalent)](https://gitcoin.co/hackathon/gr14/projects/15996/crypto-inspect/summary?)
+- &nbsp; [Winner GR14: Web3 Application General Purpose Bounty (Covalent)](https://gitcoin.co/hackathon/gr14/projects/15996/crypto-inspect/summary?)
 
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
